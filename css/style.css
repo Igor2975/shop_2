@@ -60,6 +60,10 @@
     margin-top: 20px;
     background-color: #f8f8f8;
 }
+.products-item-img{
+    width: 180px;
+    height: 160px;
+}
 
 .products-item-title {
     padding-top: 10px;
